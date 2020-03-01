@@ -14,5 +14,6 @@ This NoC is presented in the paper: [Exploring Asynchronous End-to-End Communica
 Master Dissertation (in portuguese): [Exploração de comunicação fim-a-fim assíncrona através de uma noc síncrona](http://repositorio.ufsm.br/handle/1/16780)
 
 For more information please contact an author:
-> Iaçanã Weber - iacana.weber@edu.pucrs.br
+> Iaçanã Weber - iacana.weber@edu.pucrs.br 
+
 > Everton Carara - carara@ufsm.br
